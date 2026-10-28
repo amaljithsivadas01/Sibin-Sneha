@@ -1,2 +1,0 @@
-Sibin & Sneha Wedding Website
-
