@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sibin and Sneha//Wedding Reception//EN
+BEGIN:VEVENT
+UID:sibin-sneha-20261125@wedding.local
+DTSTAMP:20261028T073000Z
+DTSTART:20261125T120000Z
+DTEND:20261125T150000Z
+SUMMARY:Sibin & Sneha — Wedding Reception
+LOCATION:Jubilee Convention Centre (Hall\, Kattoor)
+DESCRIPTION:Celebrate with Sibin and Sneha. Directions: https://share.google/ST0UXdIexQuPtGYCO
+URL:https://share.google/ST0UXdIexQuPtGYCO
+END:VEVENT
+END:VCALENDAR
